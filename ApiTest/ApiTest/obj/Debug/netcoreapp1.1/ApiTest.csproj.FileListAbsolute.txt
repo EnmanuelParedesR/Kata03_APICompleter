@@ -1,0 +1,14 @@
+c:\users\ema\documents\visual studio 2017\Projects\ApiTest\ApiTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\ema\documents\visual studio 2017\Projects\ApiTest\ApiTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\ema\documents\visual studio 2017\Projects\ApiTest\ApiTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\ema\documents\visual studio 2017\Projects\ApiTest\ApiTest\bin\Debug\netcoreapp1.1\ApiTest.deps.json
+c:\users\ema\documents\visual studio 2017\Projects\ApiTest\ApiTest\bin\Debug\netcoreapp1.1\ApiTest.runtimeconfig.json
+c:\users\ema\documents\visual studio 2017\Projects\ApiTest\ApiTest\bin\Debug\netcoreapp1.1\ApiTest.runtimeconfig.dev.json
+c:\users\ema\documents\visual studio 2017\Projects\ApiTest\ApiTest\bin\Debug\netcoreapp1.1\ApiTest.dll
+c:\users\ema\documents\visual studio 2017\Projects\ApiTest\ApiTest\bin\Debug\netcoreapp1.1\ApiTest.pdb
+c:\users\ema\documents\visual studio 2017\Projects\ApiTest\ApiTest\bin\Debug\netcoreapp1.1\Kata_03_API.dll
+c:\users\ema\documents\visual studio 2017\Projects\ApiTest\ApiTest\bin\Debug\netcoreapp1.1\Kata_03_API.pdb
+c:\users\ema\documents\visual studio 2017\Projects\ApiTest\ApiTest\obj\Debug\netcoreapp1.1\ApiTest.csprojResolveAssemblyReference.cache
+c:\users\ema\documents\visual studio 2017\Projects\ApiTest\ApiTest\obj\Debug\netcoreapp1.1\ApiTest.AssemblyInfo.cs
+c:\users\ema\documents\visual studio 2017\Projects\ApiTest\ApiTest\obj\Debug\netcoreapp1.1\ApiTest.dll
+c:\users\ema\documents\visual studio 2017\Projects\ApiTest\ApiTest\obj\Debug\netcoreapp1.1\ApiTest.pdb

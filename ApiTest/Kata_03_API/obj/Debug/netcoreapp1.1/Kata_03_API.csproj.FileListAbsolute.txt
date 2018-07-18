@@ -1,0 +1,7 @@
+c:\Users\ema\documents\visual studio 2017\Projects\ApiTest\Kata_03_API\bin\Debug\netcoreapp1.1\Kata_03_API.deps.json
+c:\Users\ema\documents\visual studio 2017\Projects\ApiTest\Kata_03_API\bin\Debug\netcoreapp1.1\Kata_03_API.dll
+c:\Users\ema\documents\visual studio 2017\Projects\ApiTest\Kata_03_API\bin\Debug\netcoreapp1.1\Kata_03_API.pdb
+c:\Users\ema\documents\visual studio 2017\Projects\ApiTest\Kata_03_API\obj\Debug\netcoreapp1.1\Kata_03_API.csprojResolveAssemblyReference.cache
+c:\Users\ema\documents\visual studio 2017\Projects\ApiTest\Kata_03_API\obj\Debug\netcoreapp1.1\Kata_03_API.AssemblyInfo.cs
+c:\Users\ema\documents\visual studio 2017\Projects\ApiTest\Kata_03_API\obj\Debug\netcoreapp1.1\Kata_03_API.dll
+c:\Users\ema\documents\visual studio 2017\Projects\ApiTest\Kata_03_API\obj\Debug\netcoreapp1.1\Kata_03_API.pdb
