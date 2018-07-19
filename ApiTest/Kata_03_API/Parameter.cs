@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Kata_03_API
 {
-    public class Parameter
+    public class Parameter : IComparable<Parameter>
     {
         public string name;
         public IType type;
@@ -15,6 +15,23 @@ namespace Kata_03_API
         {
             name = Name;
             type = Type;
+        }
+
+        public int CompareTo(Parameter other)
+        {
+            int result;
+            if ((this.type.GetType() == new Path().GetType()) && (other.type.GetType() == new QueryString().GetType()))
+                result = -1;
+
+            else
+                if ((this.type.GetType() == new QueryString().GetType()) && (other.type.GetType() == new Path().GetType()))
+                    result = 1;
+
+                else
+                    result = this.name.CompareTo(other.name);
+
+
+            return result;
         }
 
     }

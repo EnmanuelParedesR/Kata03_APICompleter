@@ -12,3 +12,20 @@ c:\users\ema\documents\visual studio 2017\Projects\ApiTest\ApiTest\obj\Debug\net
 c:\users\ema\documents\visual studio 2017\Projects\ApiTest\ApiTest\obj\Debug\netcoreapp1.1\ApiTest.AssemblyInfo.cs
 c:\users\ema\documents\visual studio 2017\Projects\ApiTest\ApiTest\obj\Debug\netcoreapp1.1\ApiTest.dll
 c:\users\ema\documents\visual studio 2017\Projects\ApiTest\ApiTest\obj\Debug\netcoreapp1.1\ApiTest.pdb
+F:\Repositories\GitHub\Kata03_APICompleter\ApiTest\ApiTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Repositories\GitHub\Kata03_APICompleter\ApiTest\ApiTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Repositories\GitHub\Kata03_APICompleter\ApiTest\ApiTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Repositories\GitHub\Kata03_APICompleter\ApiTest\ApiTest\bin\Debug\netcoreapp1.1\ApiTest.deps.json
+F:\Repositories\GitHub\Kata03_APICompleter\ApiTest\ApiTest\bin\Debug\netcoreapp1.1\ApiTest.runtimeconfig.json
+F:\Repositories\GitHub\Kata03_APICompleter\ApiTest\ApiTest\bin\Debug\netcoreapp1.1\ApiTest.runtimeconfig.dev.json
+F:\Repositories\GitHub\Kata03_APICompleter\ApiTest\ApiTest\bin\Debug\netcoreapp1.1\ApiTest.dll
+F:\Repositories\GitHub\Kata03_APICompleter\ApiTest\ApiTest\bin\Debug\netcoreapp1.1\ApiTest.pdb
+F:\Repositories\GitHub\Kata03_APICompleter\ApiTest\ApiTest\bin\Debug\netcoreapp1.1\Kata_03_API.dll
+F:\Repositories\GitHub\Kata03_APICompleter\ApiTest\ApiTest\bin\Debug\netcoreapp1.1\Kata_03_API.pdb
+F:\Repositories\GitHub\Kata03_APICompleter\ApiTest\ApiTest\obj\Debug\netcoreapp1.1\ApiTest.csprojAssemblyReference.cache
+F:\Repositories\GitHub\Kata03_APICompleter\ApiTest\ApiTest\obj\Debug\netcoreapp1.1\ApiTest.csproj.CoreCompileInputs.cache
+F:\Repositories\GitHub\Kata03_APICompleter\ApiTest\ApiTest\obj\Debug\netcoreapp1.1\ApiTest.AssemblyInfoInputs.cache
+F:\Repositories\GitHub\Kata03_APICompleter\ApiTest\ApiTest\obj\Debug\netcoreapp1.1\ApiTest.AssemblyInfo.cs
+F:\Repositories\GitHub\Kata03_APICompleter\ApiTest\ApiTest\obj\Debug\netcoreapp1.1\ApiTest.csproj.CopyComplete
+F:\Repositories\GitHub\Kata03_APICompleter\ApiTest\ApiTest\obj\Debug\netcoreapp1.1\ApiTest.dll
+F:\Repositories\GitHub\Kata03_APICompleter\ApiTest\ApiTest\obj\Debug\netcoreapp1.1\ApiTest.pdb

@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v1.1": {
-      "kata_03_api/1.0.0": {
+      "Kata_03_API/1.0.0": {
         "runtime": {
           "Kata_03_API.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "kata_03_api/1.0.0": {
+    "Kata_03_API/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

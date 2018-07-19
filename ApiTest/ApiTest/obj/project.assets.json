@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "targets": {
     ".NETCoreApp,Version=v1.1": {
       "Libuv/1.9.1": {
@@ -2821,6 +2821,19 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "Kata_03_API/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v1.1",
+        "dependencies": {
+          "Microsoft.NETCore.App": "1.1.2"
+        },
+        "compile": {
+          "bin/placeholder/Kata_03_API.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kata_03_API.dll": {}
+        }
       }
     }
   },
@@ -2844,7 +2857,7 @@
       ]
     },
     "Microsoft.CodeAnalysis.Analyzers/1.1.0": {
-      "sha512": "HS3iRWZKcUw/8eZ/08GXKY2Bn7xNzQPzf8gRPHGSowX7u7XXu9i9YEaBeBNKUXWfI7qjvT2zXtLUvbN0hds8vg==",
+      "sha512": "DQm5laMHD3XTSfvs50kaCmssyt4HxtGdPW5W/AR7as7BWvOfFxWO3uT1nr7NIc2pW10G3BGkyOrqTWmORFISLg==",
       "type": "package",
       "path": "microsoft.codeanalysis.analyzers/1.1.0",
       "files": [
@@ -2994,7 +3007,7 @@
       ]
     },
     "Microsoft.NETCore.App/1.1.2": {
-      "sha512": "TUPK1xhef7WcbsIkhfZOz6J7DrG5aebjVRBswPfHe90eDhfnlWHaLiI1OtMB2O78bf5d37WO6ge+9nel2keKkA==",
+      "sha512": "fcN0Ob6rjY7Zu0770cA5l9wRJvj7+ltJPPdryUidejkkhao+y2AYrtezBTlP9nCSFXLmYR9BtaknORT17x8reA==",
       "type": "package",
       "path": "microsoft.netcore.app/1.1.2",
       "files": [
@@ -3018,7 +3031,7 @@
       ]
     },
     "Microsoft.NETCore.DotNetHostPolicy/1.1.2": {
-      "sha512": "fD2UWfXXY+FgPWVqvpNo2/d7b/LHYl1/aepVimYYkVsuF4CczP8hgCJIlKiUbWF/d98xCMtz7bbuv6LkGfdfeQ==",
+      "sha512": "nes7MaBG1zWz44m+zR4SDiOVmpCFiY49BcJGRaIO0TqjsLZmuUQVXEGcNZFlme95dlaki9QYJr4FK5NKNlPA6Q==",
       "type": "package",
       "path": "microsoft.netcore.dotnethostpolicy/1.1.2",
       "files": [
@@ -3595,7 +3608,7 @@
       ]
     },
     "runtime.native.System/4.3.0": {
-      "sha512": "c/qWt2LieNZIj1jGnVNsE2Kl23Ya2aSTBuXMD6V7k9KWr6l16Tqdwq+hJScEpWER9753NWC8h96PaVNY5Ld7Jw==",
+      "sha512": "Z4wWweYvKvjpKB/JQzZIKIUK6Dc9cgaq8gXzjGEtrcFuw1tvyiMlBFHeAmNgEPVaYIt/TZVP2PHsa/5/nkcC+A==",
       "type": "package",
       "path": "runtime.native.system/4.3.0",
       "files": [
@@ -3619,7 +3632,7 @@
       ]
     },
     "runtime.native.System.Net.Http/4.3.0": {
-      "sha512": "ZVuZJqnnegJhd2k/PtAbbIcZ3aZeITq3sj06oKfMBSfphW3HDmk/t4ObvbOk/JA/swGR0LNqMksAh/f7gpTROg==",
+      "sha512": "y9IRRkyv91lJgOGAUmRCDDUPRnpTyHkn9uB1qobQRGA6bK7JkIX1QwlGMgWqckFLx1BTg4sK78JddSb8O71AYA==",
       "type": "package",
       "path": "runtime.native.system.net.http/4.3.0",
       "files": [
@@ -3631,7 +3644,7 @@
       ]
     },
     "runtime.native.System.Net.Security/4.3.0": {
-      "sha512": "M2nN92ePS8BgQ2oi6Jj3PlTUzadYSIWLdZrHY1n1ZcW9o4wAQQ6W+aQ2lfq1ysZQfVCgDwY58alUdowrzezztg==",
+      "sha512": "p6U4dBeFIZGlivzX3nOP5JJD8G8m+DqT2D98s/zwX+9x7AJsMO//iqyOGGwo2zKxUesr9QfEZ4XUGvp8cqzLLA==",
       "type": "package",
       "path": "runtime.native.system.net.security/4.3.0",
       "files": [
@@ -3643,7 +3656,7 @@
       ]
     },
     "runtime.native.System.Security.Cryptography.Apple/4.3.0": {
-      "sha512": "DloMk88juo0OuOWr56QG7MNchmafTLYWvABy36izkrLI5VledI0rq28KGs1i9wbpeT9NPQrx/wTf8U2vazqQ3Q==",
+      "sha512": "JiUconDq3R0ksl6wfgaHZi8eKZUsWbpxMZyhTZa693SEj53HTCoz+49N7ezZ8fndecVkoojzY0MhII2hV7XoYg==",
       "type": "package",
       "path": "runtime.native.system.security.cryptography.apple/4.3.0",
       "files": [
@@ -3691,7 +3704,7 @@
       ]
     },
     "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.Apple/4.3.0": {
-      "sha512": "kVXCuMTrTlxq4XOOMAysuNwsXWpYeboGddNGpIgNSZmv1b6r/s/DPk0fYMB7Q5Qo4bY68o48jt4T4y5BVecbCQ==",
+      "sha512": "qntFmAOIKl7GV6GYfwMIBItLq+QiA87PTTp7nCA/M0c9+L/bYs4DQiRLpOci5rtqH0CA1l0wuCjnCzLosDBonw==",
       "type": "package",
       "path": "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.apple/4.3.0",
       "files": [
@@ -3961,7 +3974,7 @@
       ]
     },
     "System.Collections.Immutable/1.3.0": {
-      "sha512": "zukBRPUuNxwy9m4TGWLxKAnoiMc9+B+8VXeXVyPiBPvOd7yLgAlZ1DlsRWJjMx4VsvhhF2+6q6kO2GRbPja6hA==",
+      "sha512": "LRnwvleZHQ+2zplEHxNfDVeY7EqwmlAGWUAYnJSNq/hCj9kl9dlik5aqWukY+kNQHwgrJxpL5DAKivWWtR3qdQ==",
       "type": "package",
       "path": "system.collections.immutable/1.3.0",
       "files": [
@@ -4050,7 +4063,7 @@
       ]
     },
     "System.ComponentModel/4.3.0": {
-      "sha512": "VyGn1jGRZVfxnh8EdvDCi71v3bMXrsu8aYJOwoV7SNDLVhiEqwP86pPMyRGsDsxhXAm2b3o9OIqeETfN5qfezw==",
+      "sha512": "fECqeMrty59f+Jg8Dx+7ExF3+wC7fmufLDQLrOpw9AXLyyMlCwxyTUs+cQigYRp5Fn1DNnEgOcwCJF/f1MM3oQ==",
       "type": "package",
       "path": "system.componentmodel/4.3.0",
       "files": [
@@ -4461,7 +4474,7 @@
       ]
     },
     "System.Diagnostics.FileVersionInfo/4.0.0": {
-      "sha512": "qjF74OTAU+mRhLaL4YSfiWy3vj6T3AOz8AW37l5zCwfbBfj0k7E94XnEsRaf2TnhE/7QaV6Hvqakoy2LoV8MVg==",
+      "sha512": "LFQgcj20fY+rBj3U/Pk+4zVg8RsNBht7QRzHmGPJ9AP2kAq0PN7b2rqaCFPpi9NHai+e23As3BTWOv1B+nn7nQ==",
       "type": "package",
       "path": "system.diagnostics.fileversioninfo/4.0.0",
       "files": [
@@ -4686,7 +4699,7 @@
       ]
     },
     "System.Diagnostics.TraceSource/4.0.0": {
-      "sha512": "6WVCczFZKXwpWpzd/iJkYnsmWTSFFiU24Xx/YdHXBcu+nFI/ehTgeqdJQFbtRPzbrO3KtRNjvkhtj4t5/WwWsA==",
+      "sha512": "seRQ3uv3z8TysGDXdYCfbapFwPHCvzI1y6YXeTj6TUNLpyG1gr8vtFiKJuq6Q46bt5HEl/Xf5g1wkWNN01PZnw==",
       "type": "package",
       "path": "system.diagnostics.tracesource/4.0.0",
       "files": [
@@ -4984,7 +4997,7 @@
       ]
     },
     "System.Globalization.Extensions/4.3.0": {
-      "sha512": "FhKmdR6MPG+pxow6wGtNAWdZh7noIOpdD5TwQ3CprzgIE1bBBoim0vbR1+AWsWjQmU7zXHgQo4TWSP6lCeiWcQ==",
+      "sha512": "yjpwTaiMZOHof6/wTNBavnHyEeuWg60G2S5Ul1C1lK7mm2VHcIK7crdZXOJycM5hwlS/H9LZ2b8f8N6kciURWQ==",
       "type": "package",
       "path": "system.globalization.extensions/4.3.0",
       "files": [
@@ -5551,7 +5564,7 @@
       ]
     },
     "System.Linq.Parallel/4.3.0": {
-      "sha512": "td7x21K8LalpjTWCzW/nQboQIFbq9i0r+PCyBBCdLWWnm4NBcdN18vpz/G9hCpUaCIfRL+ZxJNVTywlNlB1aLQ==",
+      "sha512": "iadBNuWCwVzSnkLQOy/5K8M0/H5q2KODcmucgx+mdEkevP3LZ9u82kUP9IYzs2wfGdHorZ0hFSHGOobe7F5D4Q==",
       "type": "package",
       "path": "system.linq.parallel/4.3.0",
       "files": [
@@ -6244,7 +6257,7 @@
       ]
     },
     "System.Reflection.Emit/4.3.0": {
-      "sha512": "228FG0jLcIwTVJyz8CLFKueVqQK36ANazUManGaJHkO0icjiIypKW7YLWLIWahyIkdh5M7mV2dJepllLyA1SKg==",
+      "sha512": "AkTRyPXDPJx5hAPcf/SVatbo9bIAdU6ryZxeFBhIQ8pm1SQsc7IScmhAOx2D5pTUnwe/butk7cHard2VVA5mMw==",
       "type": "package",
       "path": "system.reflection.emit/4.3.0",
       "files": [
@@ -6419,7 +6432,7 @@
       ]
     },
     "System.Reflection.Metadata/1.4.1": {
-      "sha512": "tc2ZyJgweHCLci5oQGuhQn9TD0Ii9DReXkHtZm3aAGp8xe40rpRjiTbMXOtZU+fr0BOQ46goE9+qIqRGjR9wGg==",
+      "sha512": "BSeF1cDUlRnaw6XpRc0TAJHXZGhOYpcnCC35Opy+yz8XzpVZe1PF4aqcj2/0kdM2SoI1pBqJdlaoi/pr4nI96w==",
       "type": "package",
       "path": "system.reflection.metadata/1.4.1",
       "files": [
@@ -7321,7 +7334,7 @@
       ]
     },
     "System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "h4CEgOgv5PKVF/HwaHzJRiVboL2THYCou97zpmhjghx5frc7fIvlkY1jL+lnIQyChrJDMNEXS6r7byGif8Cy4w==",
+      "sha512": "sIkGDFMN4ZzlJ2T/d1U0Nr3BwWjkOnv9CR5CKrsvS4j+muJvZ/jnYTZZ155PbKBsvrNxLkokPKcRyA3SKctqkQ==",
       "type": "package",
       "path": "system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -7473,7 +7486,7 @@
       ]
     },
     "System.Security.Principal.Windows/4.3.0": {
-      "sha512": "HVL1rvqYtnRCxFsYag/2le/ZfKLK4yMw79+s6FmKXbSCNN0JeAhrYxnRAHFoWRa0dEojsDcbBSpH3l22QxAVyw==",
+      "sha512": "tFf5DcGORw+cSWHyMV7WEa+ElqdSQn/osGNQAsaVNPSrzPqqPLYgSj9ku71A35ayEx6uo5QKMC/2YqKwqtFOsA==",
       "type": "package",
       "path": "system.security.principal.windows/4.3.0",
       "files": [
@@ -7946,7 +7959,7 @@
       ]
     },
     "System.Threading.Tasks.Parallel/4.3.0": {
-      "sha512": "cbjBNZHf/vQCfcdhzx7knsiygoCKgxL8mZOeocXZn5gWhCdzHIq6bYNKWX0LAJCWYP7bds4yBK8p06YkP0oa0g==",
+      "sha512": "kvYSZ0QYv/GnUya7xN5/TmbH7aQPK6Jxjf3rM5MYcwr1PERgXvJ+7mPAyvAJqLS/unuAL8cN8+3uA8DAPd/t3w==",
       "type": "package",
       "path": "system.threading.tasks.parallel/4.3.0",
       "files": [
@@ -8001,7 +8014,7 @@
       ]
     },
     "System.Threading.Thread/4.3.0": {
-      "sha512": "OHmbT+Zz065NKII/ZHcH9XO1dEuLGI1L2k7uYss+9C1jLxTC9kTZZuzUOyXHayRk+dft9CiDf3I/QZ0t8JKyBQ==",
+      "sha512": "w5f+v/P4I3m1n5aAdTk3BekgfZ3zBn/z/hT0kjmZNjSNIgh+TWP6isS2TvljKMtjFqnsHyKlvs6LzBti+JIK/A==",
       "type": "package",
       "path": "system.threading.thread/4.3.0",
       "files": [
@@ -8039,7 +8052,7 @@
       ]
     },
     "System.Threading.ThreadPool/4.3.0": {
-      "sha512": "k/+g4b7vjdd4aix83sTgC9VG6oXYKAktSfNIJUNGxPEj7ryEOfzHHhfnmsZvjxawwcD9HyWXKCXmPjX8U4zeSw==",
+      "sha512": "Dq8umgIiqu5pRAhE4M97x79v7s89blNjv9ONXlqCOfPUp94fLEIZxtOdHz3ebkdxwSQDKLwPfhfJ/Hy/EoPYMg==",
       "type": "package",
       "path": "system.threading.threadpool/4.3.0",
       "files": [
@@ -8374,7 +8387,7 @@
       ]
     },
     "System.Xml.XPath/4.0.1": {
-      "sha512": "UWd1H+1IJ9Wlq5nognZ/XJdyj8qPE4XufBUkAW59ijsCPjZkZe0MUzKKJFBr+ZWBe5Wq1u1d5f2CYgE93uH7DA==",
+      "sha512": "zpSop/+l7GUi5V5EI5USxVqhlz+WDXcRAOqI79cyUib26nd3OvXjVgeCoEMArgPtPEQ9rcROavcsCvOeE58MOg==",
       "type": "package",
       "path": "system.xml.xpath/4.0.1",
       "files": [
@@ -8448,7 +8461,7 @@
       ]
     },
     "System.Xml.XPath.XmlDocument/4.0.1": {
-      "sha512": "Zm2BdeanuncYs3NhCj4c9e1x3EXFzFBVv2wPEc/Dj4ZbI9R8ecLSR5frAsx4zJCPBtKQreQ7Q/KxJEohJZbfzA==",
+      "sha512": "v/R3K+pvahJX2UgzrYs8UTq/PX/1uAFtEioZ8D2JUdUMJU3oJqR6K3L2UvcMkrHvwUq8l2fFz2iXbHycPHoCXw==",
       "type": "package",
       "path": "system.xml.xpath.xmldocument/4.0.1",
       "files": [
@@ -8481,60 +8494,85 @@
         "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "Kata_03_API/1.0.0": {
+      "type": "project",
+      "path": "../Kata_03_API/Kata_03_API.csproj",
+      "msbuildProject": "../Kata_03_API/Kata_03_API.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v1.1": [
+      "Kata_03_API >= 1.0.0",
       "MSTest.TestAdapter >= 1.1.11",
       "MSTest.TestFramework >= 1.1.11",
       "Microsoft.NET.Test.Sdk >= 15.0.0",
-      "Microsoft.NETCore.App >= 1.1.2",
-      "c:\\users\\ema\\documents\\visual studio 2017\\Projects\\ApiTest\\Kata_03_API\\Kata_03_API.csproj"
+      "Microsoft.NETCore.App >= 1.1.2"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ema\\.nuget\\packages\\": {}
+    "C:\\Users\\nic_l\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\ema\\documents\\visual studio 2017\\Projects\\ApiTest\\ApiTest\\ApiTest.csproj",
+      "projectUniqueName": "F:\\Repositories\\GitHub\\Kata03_APICompleter\\ApiTest\\ApiTest\\ApiTest.csproj",
       "projectName": "ApiTest",
-      "projectPath": "c:\\users\\ema\\documents\\visual studio 2017\\Projects\\ApiTest\\ApiTest\\ApiTest.csproj",
-      "outputPath": "c:\\users\\ema\\documents\\visual studio 2017\\Projects\\ApiTest\\ApiTest\\obj\\",
+      "projectPath": "F:\\Repositories\\GitHub\\Kata03_APICompleter\\ApiTest\\ApiTest\\ApiTest.csproj",
+      "packagesPath": "C:\\Users\\nic_l\\.nuget\\packages\\",
+      "outputPath": "F:\\Repositories\\GitHub\\Kata03_APICompleter\\ApiTest\\ApiTest\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\nic_l\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+      ],
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "c:\\users\\ema\\documents\\visual studio 2017\\Projects\\ApiTest\\Kata_03_API\\Kata_03_API.csproj": {
-              "projectPath": "c:\\users\\ema\\documents\\visual studio 2017\\Projects\\ApiTest\\Kata_03_API\\Kata_03_API.csproj"
+            "F:\\Repositories\\GitHub\\Kata03_APICompleter\\ApiTest\\Kata_03_API\\Kata_03_API.csproj": {
+              "projectPath": "F:\\Repositories\\GitHub\\Kata03_APICompleter\\ApiTest\\Kata_03_API\\Kata_03_API.csproj"
             }
           }
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {
       "netcoreapp1.1": {
         "dependencies": {
-          "MSTest.TestFramework": {
-            "target": "Package",
-            "version": "1.1.11"
-          },
           "MSTest.TestAdapter": {
             "target": "Package",
-            "version": "1.1.11"
+            "version": "[1.1.11, )"
           },
-          "Microsoft.NETCore.App": {
+          "MSTest.TestFramework": {
             "target": "Package",
-            "version": "1.1.2",
-            "autoReferenced": true
+            "version": "[1.1.11, )"
           },
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
-            "version": "15.0.0"
+            "version": "[15.0.0, )"
+          },
+          "Microsoft.NETCore.App": {
+            "target": "Package",
+            "version": "[1.1.2, )",
+            "autoReferenced": true
           }
         }
       }
